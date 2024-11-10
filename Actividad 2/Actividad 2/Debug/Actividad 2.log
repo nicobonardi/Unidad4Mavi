@@ -1,0 +1,12 @@
+﻿  Act2.cpp
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,82): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,82): warning C4244:         with
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,82): warning C4244:         [
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,82): warning C4244:             T=float
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,82): warning C4244:         ]
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,61): warning C4244:         with
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,61): warning C4244:         [
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,61): warning C4244:             T=float
+E:\Documentos\UNL\Unidad 4\Actividad 2\Act2.cpp(32,61): warning C4244:         ]
+  Actividad 2.vcxproj -> E:\Documentos\UNL\Unidad 4\Actividad 2\Debug\Actividad 2.exe
