@@ -1,0 +1,4 @@
+﻿  Act 3.cpp
+E:\Documentos\UNL\Unidad4Mavi\Actividad 3\Act 3.cpp(32,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\Documentos\UNL\Unidad4Mavi\Actividad 3\Act 3.cpp(32,43): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Actividad 3.vcxproj -> E:\Documentos\UNL\Unidad4Mavi\Actividad 3\Debug\Actividad 3.exe
