@@ -1,0 +1,113 @@
+﻿  Act 6.cpp
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(28,7): error C2365: 'Enemigo::estaVivo': nueva definición; la definición anterior era 'miembro de datos'
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(9,7):
+      vea la declaración de 'Enemigo::estaVivo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(29,3): error C2059: error de sintaxis: 'return'
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(29,18): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(31,2): error C2628: 'Enemigo' seguido de 'bool' no es válido (¿ha olvidado ';'?)
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(32,10): error C2065: 'estaVivo': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(32,22): error C2065: 'estaVisible': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(35,22): error C2065: 'EnemigoSprite': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(39,3): error C2065: 'estaVivo': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(42,13): error C2065: 'EnemigoSprite': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(45,8): error C2065: 'estaVivo': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(47,8): error C2065: 'estaVisible': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(48,8): error C2065: '_clock': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(48,46): error C2065: 'tiempoApagado': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(50,6): error C2065: 'estaVisible': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(51,5): error C2065: 'EnemigoSprite': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(51,31): error C3861: 'randomPos': no se encontró el identificador
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(55,8): error C2065: '_clock': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(55,46): error C2065: 'tiempoVisible': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(56,5): error C2065: 'estaVisible': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(57,4): error C2065: '_clock': identificador no declarado
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(61,1): error C2059: error de sintaxis: '}'
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(61,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,42): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,42): warning C4244:         with
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,42): warning C4244:         [
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,42): warning C4244:             T=int
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,42): warning C4244:         ]
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,30): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,30): warning C4244:         with
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,30): warning C4244:         [
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,30): warning C4244:             T=int
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(46,30): warning C4244:         ]
+  (compilando archivo de origen "Act%206.cpp")
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(49,16): error C2039: "Actualizar": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(56,20): error C2039: "estaActivo": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(57,21): error C2039: "estaEncima": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(58,18): error C2039: "Derrotar": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(68,20): error C2039: "estaActivo": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
+E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Juego.h(69,17): error C2039: "Dibujar": no es un miembro de "Enemigo"
+  (compilando archivo de origen "Act%206.cpp")
+      E:\Documentos\UNL\Unidad4Mavi\Actividad 6\Enemy.h(6,7):
+      vea la declaración de 'Enemigo'
+  
